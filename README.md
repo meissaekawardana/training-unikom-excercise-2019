@@ -86,6 +86,8 @@ sebagai routing untuk mengakses url tersebut menggunakan method (http) fungsi re
     - ```@DeleteMapping```
 sebagai routing untuk mengakses url tersebut menggunakan method (http) dengan tujuan untuk menghapus data
     
+    - ```@Autowired```
+menandai metode konstruktor, bidang, atau penyetel yang akan disebarkan secara otomatis oleh injeksi ketergantungan Spring.
 
 ## Cara mengerjakan
 
