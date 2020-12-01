@@ -88,7 +88,9 @@ sebagai routing untuk mengakses url tersebut menggunakan method (http) dengan tu
     
     - ```@Autowired```
 menandai metode konstruktor, bidang, atau penyetel yang akan disebarkan secara otomatis oleh injeksi ketergantungan Spring.
-
+    -```@PathVariable ```
+dapat digunakan untuk menangani variabel template dalam permintaan pemetaan URI , dan menggunakannya sebagai parameter metode. (Jadi get param dari url, terus dimasukin ke paratemeter)    
+    
 ## Cara mengerjakan
 
 - Fork repository ini, kemudian setelah di fork, clone ke local komputer anda.
